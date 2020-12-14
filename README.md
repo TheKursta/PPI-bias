@@ -8,7 +8,7 @@ Secondly be sure that powerful PC is used (32GB RAM and 6 core CPU at least, >GT
 # Additional files
 First datasets and Prot2Vec models have to be downloaded:
  - Dataset 1 from [article](https://academic.oup.com/bioinformatics/article/35/14/i305/5529260) [repository](https://github.com/muhaochen/seq_ppi).
- - Dataset 2 from this [article] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531800/). train_11.txt; test_11.txt
+ - Dataset 2 from this [article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531800/). train_11.txt; test_11.txt
  - Prot2Vec model from [article](https://arxiv.org/pdf/1503.05140v1.pdf) [repository](https://github.com/kyu999/biovec).
  
 # Script execution order
